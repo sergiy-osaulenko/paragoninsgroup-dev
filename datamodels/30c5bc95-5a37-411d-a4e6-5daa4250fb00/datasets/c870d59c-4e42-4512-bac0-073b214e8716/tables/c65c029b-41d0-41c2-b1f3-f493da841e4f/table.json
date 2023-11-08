@@ -1,0 +1,54 @@
+{
+    "buildBehavior": {
+        "accumulativeConfig": null,
+        "type": "sync"
+    },
+    "columns": [
+        {
+            "hidden": false,
+            "id": "LFBI_ID",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "LFBI_ID",
+            "oid": "5319c05f-1a6b-413e-a24c-52a8185e0a29",
+            "precision": 10,
+            "scale": 0,
+            "size": 10,
+            "type": 8
+        },
+        {
+            "hidden": false,
+            "id": "LFBI_LoadTime",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "LFBI_LoadTime",
+            "oid": "c3baa9a7-6850-4d5a-b684-19f1cc4be3de",
+            "precision": 27,
+            "scale": 7,
+            "size": 50,
+            "type": 4
+        },
+        {
+            "hidden": false,
+            "id": "LossDate",
+            "indexed": true,
+            "isUpsertBy": false,
+            "name": "LossDate",
+            "oid": "65df40ca-1af8-405a-98f0-0ebbe917c782",
+            "precision": 27,
+            "scale": 7,
+            "size": 50,
+            "type": 4
+        }
+    ],
+    "dataset": "c870d59c-4e42-4512-bac0-073b214e8716",
+    "hidden": false,
+    "id": "d_LossDate",
+    "isMaterialized": false,
+    "name": "Paragon_Semantic_DW2",
+    "oid": "c65c029b-41d0-41c2-b1f3-f493da841e4f",
+    "schemaName": "dw",
+    "tupleTransformations": [
+    ],
+    "type": "base"
+}

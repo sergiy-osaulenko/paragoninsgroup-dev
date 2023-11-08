@@ -1,0 +1,11 @@
+{
+    "connection": "./connection.json",
+    "database": "Paragon_Semantic_Dev",
+    "elasticube": "4deb3446-b187-46d9-b660-dff9dc9ee650",
+    "oid": "768c49a4-ef49-4838-b1a4-8153649ff5c2",
+    "schemaName": "dw",
+    "tables": [
+        "./2306d18a-7a32-47ad-92a3-99a31fcc0c9c/table.json"
+    ],
+    "type": "extract"
+}

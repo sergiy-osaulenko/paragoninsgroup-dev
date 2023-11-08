@@ -1,0 +1,30 @@
+{
+    "buildDestination": {
+        "database": null,
+        "destination": "elasticube"
+    },
+    "datasets": [
+        "./0270654a-50dc-4d2a-a446-7140e77b972d/dataset.json",
+        "./42c79068-077b-4cc9-90f3-3a1c9a06197a/dataset.json",
+        "./768c49a4-ef49-4838-b1a4-8153649ff5c2/dataset.json",
+        "./afa082f5-5218-4216-ae6c-847e72bb2a9a/dataset.json"
+    ],
+    "experiments": {
+    },
+    "fiscal": "system",
+    "lastSuccessfulManualBuildStartTime": "2023-11-08T10:56:25.634Z",
+    "modelStatistics": {
+        "enableModelStatistics": false,
+        "maxTablesPerCollection": null,
+        "recollectStatsInterval": null
+    },
+    "oid": "4deb3446-b187-46d9-b660-dff9dc9ee650",
+    "relationType": "regular",
+    "relations": "./relations.json",
+    "relationsTables": [
+    ],
+    "schemaId": null,
+    "shouldUpdateScheduleOnManualBuild": null,
+    "title": "TEST Connectivity",
+    "type": "extract"
+}
